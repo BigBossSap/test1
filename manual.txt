@@ -1,0 +1,5 @@
+w- Moure amunt
+a- Moure esquerre
+d- Moure dreta
+s- Moure moure avall
+0- Sortir
